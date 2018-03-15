@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaxMaxMax</string>
+    <string-array name="menuitems">
+        <item>Menu Item 0</item>
+        <item>Menu Item 1</item>
+        <item>Menu Item 2</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
